@@ -8,13 +8,13 @@ a{
     cursor: pointer;
 }
 
-.header-logo-first_part, .footer-logo-first_part{
+.header-logo-first-part, .footer-logo-first-part{
     color: #4D5AE5;
 }
-.header-logo-second_part{
+.header-logo-second-part{
     color: #2E2F42;
 }
-.footer-logo-second_part{
+.footer-logo-second-part{
     color: #F4F4FD;
 }
 .footer-logo,.header-logo{
